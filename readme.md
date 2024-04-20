@@ -55,6 +55,7 @@ To order your list, precede each line with a number.
 
 ### 9. Table
  | # | Name | Email| Address |
+ | :-: | :----------------------------: | :-------: |
  | 1. | Malik | malik@gmail.com| Imphal East |
  | 2. | Brad | Brad@yahoo.com | Unites States|
 
