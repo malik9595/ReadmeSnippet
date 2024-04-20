@@ -14,7 +14,7 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 :smiling_face_with_three_hearts: :cold_sweat::ghost: :speech_balloon: 	:grapes:
 
 
-For a full list of available emoji and codes, see the [Emoji-Cheat-Sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## Footnotes
 Here is a simple footnote[^1].
