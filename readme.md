@@ -54,7 +54,8 @@ To order your list, precede each line with a number.
 3. three
 
 ### 9. Nested Lists
- + List item  first nested item second nested item
+ + List item 
+-         first nested item second nested item
 
 
 ## 10. Using emojis
