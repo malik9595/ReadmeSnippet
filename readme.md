@@ -4,10 +4,9 @@
 
 
 ## 1. Font Size
-+ # XXL Text
-+ ## XL Text
-+ ### L Text
-+ #### M Text
+
+ # XXL Text ## XL Text ### L Text #### M Text
+
 ## 2. Styling text
  - **This is bold text**
  - _This text is italicized_
