@@ -1,6 +1,11 @@
-## Basic writing and formatting syntax
+# Basic writing and formatting syntax
 > Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
+## 2. Font Size
++ # XXL Text
++ ## XL Text
++ ### L Text
++ #### M Text
 ## 2. Styling text
  - **This is bold text**
  - _This text is italicized_
@@ -10,7 +15,7 @@
  - This is a <sub>subscript</sub> text
  - This is a <sup>superscript</sup> text
 
- ## 2. Quoting text
+ ## 3. Quoting text
  Text that is not a quote
 
 > Text that is a quote
