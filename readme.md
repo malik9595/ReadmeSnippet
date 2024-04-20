@@ -95,7 +95,7 @@ For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ](http
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |       [Form Validator](https://github.com/)       | [Live Demo](https://)  |
-| 02  |     [Movie Seat Booking](https://github.com/)    | [Live Demo](https:///)  |
+| 01  |      text1       | body2  |
+| 02  |     text2    | body2 |
 
 
