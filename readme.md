@@ -9,10 +9,8 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
 
 ## Using emojis
-You can add emoji to your writing by typing ``` :EMOJICODE: 
-```, a colon followed by the name of the emoji.
-
-```
+🏁 🍇 🍉
+:smiling_face_with_three_hearts: :cold_sweat::ghost: :speech_balloon: 	:grapes:
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ## Footnotes
