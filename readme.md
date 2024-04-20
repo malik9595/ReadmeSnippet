@@ -49,14 +49,7 @@ To order your list, precede each line with a number.
 3. three
 
 ### Nested Lists
- + List item
-  first nested item
-    second nested item
-
-
-
-
-
+ + List item  first nested item second nested item
 
 ## Uploading assets
 You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
@@ -69,16 +62,8 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 
 For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
-## Footnotes
-Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-## Hiding content with comments
-<!-- This content will not appear in the rendered Markdown -->
 ## Alerts
 
 > [!NOTE]
