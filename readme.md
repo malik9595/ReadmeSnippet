@@ -1,9 +1,7 @@
 ## Basic writing and formatting syntax
-
 > Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
-## Styling text
-
+## 2. Styling text
  - **This is bold text**
  - _This text is italicized_
  - ~~This was mistaken text~~
@@ -12,30 +10,30 @@
  - This is a <sub>subscript</sub> text
  - This is a <sup>superscript</sup> text
 
- ## Quoting text
+ ## 2. Quoting text
  Text that is not a quote
 
 > Text that is a quote
 
-## Quoting word
+## 4. Quoting word
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 To format code or text into its own distinct block, use triple backticks.
+### 5. Quoting multiple line
 
-Some basic Git commands are:
 ```
 git status
 git add
 git commit
 ```
-## Links
+## 6. Links
  - www.mdabdulmalik.com
  - [Go to homepage](https://pages.github.com/)
 
-## Images
+## 7. Images
 ![images](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## Lists
+## 8. Lists
 You can make an unordered list by preceding one or more lines of text with -, *, or +
 
 - list by -
@@ -48,13 +46,11 @@ To order your list, precede each line with a number.
 2. two 
 3. three
 
-### Nested Lists
+### 9. Nested Lists
  + List item  first nested item second nested item
 
-## Uploading assets
-You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
 
-## Using emojis
+## 10. Using emojis
 :+1:
 🏁 🍇 🍉
 :smiling_face_with_three_hearts: :cold_sweat::ghost: :speech_balloon: 	:grapes:
@@ -64,7 +60,7 @@ For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ](http
 
 
 
-## Alerts
+## 11. Alerts
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
