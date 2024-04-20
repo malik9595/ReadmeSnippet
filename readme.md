@@ -60,6 +60,11 @@ To order your list, precede each line with a number.
 | 1. | Malik | malik@gmail.com | Imphal East |
 | 2. | Brad | Brad@yahoo.com | Unites States |
 
+# brad table
+|  #  |            Project             | Live Demo |
+| :-: | :----------------------------: | :-------: |
+| 01  |      text1       | body2  |
+| 02  |     text2    | body2 |
 
 ## 10. Using emojis
 :+1:
@@ -93,9 +98,6 @@ For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ](http
 # 20+ Web Projects With Vanilla JavaScript
 
 
-|  #  |            Project             | Live Demo |
-| :-: | :----------------------------: | :-------: |
-| 01  |      text1       | body2  |
-| 02  |     text2    | body2 |
+
 
 
