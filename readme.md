@@ -1,9 +1,62 @@
-## Task lists
-To create a task list, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
+## Basic writing and formatting syntax
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+> Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+
+## Styling text
+
+ - **This is bold text**
+ - _This text is italicized_
+ - ~~This was mistaken text~~
+ - **This text is _italic within_ bold**
+ - ***This text is italic and bold***
+ - This is a <sub>subscript</sub> text
+ - This is a <sup>superscript</sup> text
+
+ ## Quoting text
+ Text that is not a quote
+
+> Text that is a quote
+
+## Quoting word
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+To format code or text into its own distinct block, use triple backticks.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+## Links
+ - www.mdabdulmalik.com
+ - [Go to homepage](https://pages.github.com/)
+
+## Images
+![images](https://myoctocat.com/assets/images/base-octocat.svg)
+
+## Lists
+You can make an unordered list by preceding one or more lines of text with -, *, or +
+
+- list by -
+* list by *
++ list by +
+
+To order your list, precede each line with a number.
+
+1. one
+2. two 
+3. three
+
+### Nested Lists
+ + List item
+  first nested item
+    second nested item
+
+
+
+
+
 
 ## Uploading assets
 You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
