@@ -57,8 +57,8 @@ To order your list, precede each line with a number.
 
 |  #  | Name |  Email |  Address  |
 |  :-:  | :----------------------------: | :-------: |
-|  1  |  Malik  |  malik@gmail.com  |  Imphal East  | 
-|  2  |  Brad  |  Brad@yahoo.com  |  Unites States  |
+|  01  |  Malik  |  malik@gmail.com  |  Imphal East  | 
+|  02  |  Brad  |  Brad@yahoo.com  |  Unites States  |
 
 # brad table
 |  #  |            Project             | Live Demo |
