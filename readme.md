@@ -26,6 +26,7 @@ A footnote can also have multiple lines[^2].
 ## Hiding content with comments
 <!-- This content will not appear in the rendered Markdown -->
 ## Alerts
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
