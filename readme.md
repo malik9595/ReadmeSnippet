@@ -1,7 +1,9 @@
 # Basic writing and formatting syntax
 > Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
-## 2. Font Size
+
+
+## 1. Font Size
 + # XXL Text
 + ## XL Text
 + ### L Text
