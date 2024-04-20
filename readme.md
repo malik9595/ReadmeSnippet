@@ -56,15 +56,10 @@ To order your list, precede each line with a number.
 ### 9. Table
 
 |  #  | Name |  Email |  Address  |
-| :-: | :----------------------------: | :-------: | :--- |
+| :-: | :--------------------------: | :------: | :--- |
 | 01  |  Malik  |  malik@gmail.com  |  Imphal East  | 
 | 02  |   Brad  |  Brad@yahoo.com  |  Unites States  |
 
-# brad table
-|  #  |            Project             | Live Demo |
-| :-: | :----------------------------: | :-------: |
-| 01  |      text1       | body2  |
-| 02  |     text2    | body2 |
 
 ## 10. Using emojis
 :+1:
@@ -92,10 +87,6 @@ For a full list of available emoji and codes, see the [ Emoji-Cheat-Sheet ](http
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
-# BRAD README
-
-# 20+ Web Projects With Vanilla JavaScript
 
 
 
