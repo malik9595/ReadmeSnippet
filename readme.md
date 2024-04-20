@@ -4,9 +4,10 @@
 
 
 ## 1. Font Size
-
- # XXL Text ## XL Text ### L Text #### M Text
-
++ # XXL Text
++ ## XL Text
++ ### L Text
++ #### M Text
 ## 2. Styling text
  - **This is bold text**
  - _This text is italicized_
@@ -52,9 +53,10 @@ To order your list, precede each line with a number.
 2. two 
 3. three
 
-### 9. Nested Lists
- + List item 
--         first nested item second nested item
+### 9. Table
+ | * | Name | Email| Address |
+ | 1. | Malik | malik@gmail.com| Imphal East |
+ | 2. | Brad | Brad@yahoo.com | Unites States|
 
 
 ## 10. Using emojis
