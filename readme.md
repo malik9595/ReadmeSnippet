@@ -9,9 +9,12 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
 
 ## Using emojis
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 🏁 🍇 🍉
 :smiling_face_with_three_hearts: :cold_sweat::ghost: :speech_balloon: 	:grapes:
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+For a full list of available emoji and codes, see the [Emoji-Cheat-Sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## Footnotes
 Here is a simple footnote[^1].
